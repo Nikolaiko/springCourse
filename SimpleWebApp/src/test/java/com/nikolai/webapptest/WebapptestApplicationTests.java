@@ -1,10 +1,10 @@
-package guru.springframework.spring.SWebApp;
+package com.nikolai.webapptest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class WebapptestApplicationTests {
 
 	@Test
 	void contextLoads() {
